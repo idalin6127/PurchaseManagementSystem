@@ -1,0 +1,16 @@
+C:\2022F-Centennial College-HD\2023 Winter\Programing 2\Assignment1\Assignment1\bin\Debug\Assignment1.exe.config
+C:\2022F-Centennial College-HD\2023 Winter\Programing 2\Assignment1\Assignment1\bin\Debug\Assignment1.exe
+C:\2022F-Centennial College-HD\2023 Winter\Programing 2\Assignment1\Assignment1\bin\Debug\Assignment1.pdb
+C:\2022F-Centennial College-HD\2023 Winter\Programing 2\Assignment1\Assignment1\obj\Debug\Ling_A1.csproj.AssemblyReference.cache
+C:\2022F-Centennial College-HD\2023 Winter\Programing 2\Assignment1\Assignment1\obj\Debug\Ling_A1.csproj.SuggestedBindingRedirects.cache
+C:\2022F-Centennial College-HD\2023 Winter\Programing 2\Assignment1\Assignment1\obj\Debug\Ling_A1.csproj.CoreCompileInputs.cache
+C:\2022F-Centennial College-HD\2023 Winter\Programing 2\Assignment1\Assignment1\obj\Debug\Assignment1.exe
+C:\2022F-Centennial College-HD\2023 Winter\Programing 2\Assignment1\Assignment1\obj\Debug\Assignment1.pdb
+C:\2022F-Centennial College-HD\2023 Winter\Programing 2\Assignment1\C# - Purchase Management System\bin\Debug\Assignment1.exe.config
+C:\2022F-Centennial College-HD\2023 Winter\Programing 2\Assignment1\C# - Purchase Management System\bin\Debug\Assignment1.exe
+C:\2022F-Centennial College-HD\2023 Winter\Programing 2\Assignment1\C# - Purchase Management System\bin\Debug\Assignment1.pdb
+C:\2022F-Centennial College-HD\2023 Winter\Programing 2\Assignment1\C# - Purchase Management System\obj\Debug\Ling_A1.csproj.AssemblyReference.cache
+C:\2022F-Centennial College-HD\2023 Winter\Programing 2\Assignment1\C# - Purchase Management System\obj\Debug\Ling_A1.csproj.SuggestedBindingRedirects.cache
+C:\2022F-Centennial College-HD\2023 Winter\Programing 2\Assignment1\C# - Purchase Management System\obj\Debug\Ling_A1.csproj.CoreCompileInputs.cache
+C:\2022F-Centennial College-HD\2023 Winter\Programing 2\Assignment1\C# - Purchase Management System\obj\Debug\Assignment1.exe
+C:\2022F-Centennial College-HD\2023 Winter\Programing 2\Assignment1\C# - Purchase Management System\obj\Debug\Assignment1.pdb
